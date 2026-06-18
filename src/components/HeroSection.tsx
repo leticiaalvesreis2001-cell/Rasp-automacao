@@ -31,7 +31,7 @@ export default function HeroSection() {
       >
         {/* Imagem de Fundo Premium */}
         <Image
-          src="/images/hero_bg.png"
+          src="/Rasp-automacao/images/hero_bg.png"
           alt="Painel de automação industrial de alta tecnologia"
           fill
           priority

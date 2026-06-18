@@ -100,7 +100,7 @@ export default function AboutSection() {
             
             <div className="absolute inset-0 z-0 bg-brand-surface">
               <Image
-                src="/images/about_company.png"
+                src="/Rasp-automacao/images/about_company.png"
                 alt="Engenheiro elétrico programando painel de controle"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"

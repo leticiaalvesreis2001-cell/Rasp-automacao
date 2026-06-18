@@ -24,7 +24,7 @@ const portfolioData: PortfolioItem[] = [
       "Projeto completo de automação de linha de envase para indústria de bebidas. Incluiu programação de CLP Siemens S7-1500, IHM Comfort Panel e integração com sistema SCADA para monitoramento em tempo real.",
     tags: ["CLP Siemens", "SCADA", "IHM", "Inversor de Frequência"],
     gradient: "from-orange-500/20 to-red-600/20",
-    image: "/images/portfolio_envase.png",
+    image: "/Rasp-automacao/images/portfolio_envase.png",
   },
   {
     id: "projeto-2",
@@ -34,7 +34,7 @@ const portfolioData: PortfolioItem[] = [
       "Fabricação e montagem de Centro de Controle de Motores (CCM) extraível para fábrica de ração animal. 24 gavetas com partida direta e soft-starter, quadro geral de 3200A com barramento de cobre.",
     tags: ["CCM", "Soft-Starter", "NBR IEC 61439", "WEG"],
     gradient: "from-blue-500/20 to-cyan-600/20",
-    image: "/images/portfolio_ccm.png",
+    image: "/Rasp-automacao/images/portfolio_ccm.png",
   },
   {
     id: "projeto-3",
@@ -44,7 +44,7 @@ const portfolioData: PortfolioItem[] = [
       "Retrofit completo de infraestrutura elétrica de planta fabril com 40 anos de operação. Adequação de subestação de 13.8kV, novo QGDF e redistribuição de cargas com estudo de curto-circuito.",
     tags: ["Retrofit", "Subestação", "QGDF", "NBR 5410"],
     gradient: "from-emerald-500/20 to-teal-600/20",
-    image: "/images/portfolio_retrofit.png",
+    image: "/Rasp-automacao/images/portfolio_retrofit.png",
   },
   {
     id: "projeto-4",
@@ -54,7 +54,7 @@ const portfolioData: PortfolioItem[] = [
       "Automação de sistema de climatização para galpão de 8.000m². Controle PID de temperatura e umidade com CLP Delta, integração com sensores wireless e dashboard web para monitoramento remoto.",
     tags: ["CLP Delta", "PID", "IoT", "Dashboard"],
     gradient: "from-violet-500/20 to-purple-600/20",
-    image: "/images/portfolio_climatizacao.png",
+    image: "/Rasp-automacao/images/portfolio_climatizacao.png",
   },
   {
     id: "projeto-5",
@@ -64,7 +64,7 @@ const portfolioData: PortfolioItem[] = [
       "Contrato de manutenção preventiva programada para indústria alimentícia. Inspeções mensais com termografia infravermelha, reaperto técnico, testes de isolamento e relatórios de conformidade.",
     tags: ["Termografia", "Preventiva", "NR10", "Relatórios"],
     gradient: "from-amber-500/20 to-yellow-600/20",
-    image: "/images/about_company.png",
+    image: "/Rasp-automacao/images/about_company.png",
   },
   {
     id: "projeto-6",
@@ -74,7 +74,7 @@ const portfolioData: PortfolioItem[] = [
       "Desenvolvimento de lógica de controle em Ladder e Texto Estruturado para CLP Rockwell Allen-Bradley. Telas de IHM com gráficos de tendência, alarmes inteligentes e receitas parametrizáveis.",
     tags: ["Rockwell", "Ladder", "IHM", "Alarmes"],
     gradient: "from-rose-500/20 to-pink-600/20",
-    image: "/images/hero_bg.png",
+    image: "/Rasp-automacao/images/hero_bg.png",
   },
 ];
 
